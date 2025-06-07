@@ -1,0 +1,29 @@
+# Core Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# NLP Preprocessing
+nltk==3.8.1
+scikit-learn==1.4.2
+
+# Data Balancing
+imbalanced-learn==0.12.2
+
+# Visualizations
+matplotlib==3.8.4
+seaborn==0.13.2
+wordcloud==1.9.3
+
+# Transformers (Hugging Face)
+transformers==4.41.1
+datasets==2.19.1
+tokenizers==0.19.1
+
+# PyTorch (for transformer models)
+torch==2.3.0
+torchaudio==2.3.0
+torchvision==0.18.0
+
+# Jupyter Notebook
+notebook==7.2.0
+ipykernel==6.29.4
